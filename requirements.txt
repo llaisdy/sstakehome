@@ -1,0 +1,5 @@
+# using python3.10
+Django==4.2.11
+djangorestframework==3.14.0
+psycopg2==2.9.9
+xmltodict==0.13.0

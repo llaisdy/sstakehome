@@ -1,0 +1,222 @@
+[
+    {
+        "id": "6166590368",
+        "name": "unser Laden, Familie Lackinger",
+        "category": "convenience-store",
+        "description": "dzpdfeldblkzqcxltrn",
+        "coordinates": {
+            "latitude": 48.008273899935716,
+            "longitude": 16.2454885
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "9684715928",
+        "name": "50嵐",
+        "category": "coffee-shop",
+        "description": "aqeflxeurqjjfckl",
+        "coordinates": {
+            "latitude": 24.89868170026652,
+            "longitude": 121.21074869999998
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "6507317180",
+        "name": "Wade Ave at Faircloth St",
+        "category": "bus-stop",
+        "description": "zoltc",
+        "coordinates": {
+            "latitude": 35.80113199971634,
+            "longitude": -78.683318
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "1327126090",
+        "name": "Шугуровка",
+        "category": "railway-station",
+        "description": "tcifcytcpio",
+        "coordinates": {
+            "latitude": 54.81268359936593,
+            "longitude": 56.1370539
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "683081179",
+        "name": "Парк трёх поколений",
+        "category": "bus-stop",
+        "description": "tjzygsjxpqgsxpaknog",
+        "coordinates": {
+            "latitude": 53.407675699111145,
+            "longitude": 58.9712879
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "4346611960",
+        "name": "Channo",
+        "category": "restaurant",
+        "description": "hzz",
+        "coordinates": {
+            "latitude": -12.058498900118135,
+            "longitude": -77.1222157
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "183448178",
+        "name": "Coliseo Amalfi",
+        "category": "sports-centre",
+        "description": "pmjwx",
+        "coordinates": {
+            "latitude": 6.906677799407947,
+            "longitude": -75.07070425
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "4149852691",
+        "name": "Venezia / Volturno",
+        "category": "bus-stop",
+        "description": "aubpsvtaxcblip",
+        "coordinates": {
+            "latitude": 46.05856810033334,
+            "longitude": 13.2242464
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "2600789496",
+        "name": "Dewdney Avenue @ Cannon Street",
+        "category": "bus-stop",
+        "description": "nyaj",
+        "coordinates": {
+            "latitude": 50.45514299935335,
+            "longitude": -104.55231479999999
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "id": "1629677950",
+        "name": "Альянс-2",
+        "category": "convenience-store",
+        "description": "ydqqwqvs",
+        "coordinates": {
+            "latitude": 63.43728230063062,
+            "longitude": 53.58643239999999
+        },
+        "ratings": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            5,
+            2,
+            2,
+            4,
+            1
+        ]
+    }
+]

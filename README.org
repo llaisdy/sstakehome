@@ -1,0 +1,48 @@
+* notes
+** set up
+*** requirements
+
+- postgresql 13
+- python 3.10
+
+*** initialise
+- cd to ~takehome/~
+- Initialise environment (envars for database) with ~. env.init~
+- Initialise database with ~. db.init~
+- create python virtual env with ~python3.10 -m venv _venv~
+- activate venv with ~. _venv/bin/activate~
+- install requirements with ~pip install -r requirements~
+
+*** django settings, init & run
+
+- Initialise virtual environment (envars for database used in settings.py) with ~. env.init~
+- ~cd sstakehome~
+- run initial migrations with ~./manage.py makemigrations && ./manage.py migrate~
+- create superuser with ~./manage.py createsuperuser~
+
+The management command ~pois_from_file~ will now be available, and/or the server can be run locally with ~./manage.py runserver~.
+
+** comments
+*** exercise requirements
+
+- the management command ~pois_from_file~ (implemented in ~pois/management/commands/pois_from_file.py~) can be called with the path to a file (or files) in the csv/json/xml formats specified in the exercise.  PoIs extracted from the files are stored as PoI models.
+- the django admin site has a PoI page that displays the specified fields (including both internal and external IDs, and average rating).
+- the search and filter views are implemented using the Django Rest Framework.
+
+*** urls
+
+- ~/pois/~: basic object list
+- ~/pois/?search=<integer>~: search by {internal,external} ID
+- ~/pois/?category=<string>~: filter by category
+
+*** caveats & further work
+
+- There is no view for ~/~, so that returns the yellow Django error page.
+
+- The filter view url uses the internal four-letter representation (see ~pois.models~) not the human-readable name (eg ~kind~ for "kindergarten")).
+
+- The DRF view at ~/pois/~ renders the view name as "Points of Interest List".  I hacked this by over-riding ~pois.views.PoIListView.get_view_name~.  I don't know if that is the correct way to customise DRF view names.
+
+- The PoI model's co-ordinates field I have implemented as a simple Django model with a pair of floats.  This might be better as a GeoDjango Point.
+
+- In the DRF view, the co-ordinates field renders as a "string-that-looks-like-a-tuple".  Using an actual tuple rendered in the view like a list (with latituade and longitude on separate lines).  A tuplesque string seemed a better compromise.

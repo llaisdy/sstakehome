@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECORDS>
+  <DATA_RECORD>
+    <pid>146612179</pid>
+    <pname>Дзіцячы сад №34</pname>
+    <pcategory>kindergarten</pcategory>
+    <platitude>55.5390834275</platitude>
+    <plongitude>28.6235719789</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>502332310</pid>
+    <pname>Interchange</pname>
+    <pcategory>bus-stop</pcategory>
+    <platitude>52.9798188991</platitude>
+    <plongitude>-0.0213466</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>77034997</pid>
+    <pname>Piscine des Ulis</pname>
+    <pcategory>sports-centre</pcategory>
+    <platitude>48.6789568836</platitude>
+    <plongitude>2.1683283974</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>534853645</pid>
+    <pname>Gsteig - Höhe Reusch</pname>
+    <pcategory>bus-stop</pcategory>
+    <platitude>46.3746120003</platitude>
+    <plongitude>7.2474098</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>1228471217</pid>
+    <pname>Simcoe NB @ First</pname>
+    <pcategory>bus-stop</pcategory>
+    <platitude>43.8839497005</platitude>
+    <plongitude>-78.8572901</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>4339563170</pid>
+    <pname>Школа-інтернат</pname>
+    <pcategory>bus-stop</pcategory>
+    <platitude>50.5341634993</platitude>
+    <plongitude>30.356356</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>6445166462</pid>
+    <pname>သင်္ဘောနံ အခြေခံပညာမူလတန်းကျောင်း</pname>
+    <pcategory>school</pcategory>
+    <platitude>12.4152022996</platitude>
+    <plongitude>99.1004165</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>1133754710</pid>
+    <pname>Теремок</pname>
+    <pcategory>kindergarten</pcategory>
+    <platitude>56.6398433198</platitude>
+    <plongitude>47.7768376889</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>919773574</pid>
+    <pname>Bushnell Way Elementary School</pname>
+    <pcategory>school</pcategory>
+    <platitude>34.1024917658</platitude>
+    <plongitude>-118.1893029587</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <pid>10678123090</pid>
+    <pname>芝中央小学校入口</pname>
+    <pcategory>bus-stop</pcategory>
+    <platitude>35.8402989997</platitude>
+    <plongitude>139.6993402</plongitude>
+    <pratings>1,1,3,1,4,1,5,3,1,2</pratings>
+  </DATA_RECORD>
+</RECORDS>
